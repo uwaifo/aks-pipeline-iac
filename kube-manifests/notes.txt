@@ -1,0 +1,4 @@
+# Access Java-App (Running on linux101 nodepool)
+http://<public-ip-of-java-app>
+Username: admin101
+Password: password101
